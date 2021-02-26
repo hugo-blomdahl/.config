@@ -16,7 +16,7 @@ gaps inner 10
 smart_gaps on
 
 #picom
-#exec_always picom --config /home/hugo/.config/picom.conf
+#exec_always picom --config $HOME/.config/picom.conf
 
 set $mod Mod4
 
